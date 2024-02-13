@@ -1,0 +1,266 @@
+
+#title{
+    background-color: rgb(215, 45, 79);
+    max-width: -1000px;
+    position:relative;
+   
+    z-index: -2;
+}
+.Dog{
+    
+    position: 0;
+  
+    transform: rotate(20deg);
+    
+    position: absolute;
+    bottom: 1px;
+    top: 150px;
+   
+   
+    
+   
+   
+}
+#features{
+
+    background-color: white;
+}
+
+
+
+.container-fluid{
+
+    padding: 3% 10%;
+    
+}
+
+
+h1{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 3.5rem;
+    
+   
+    line-height: 1.9;
+    color: white;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;}
+
+
+.row{
+    margin: 0px;
+}
+.fa-apple{
+    position: relative;
+    right: 5px;
+    
+}
+.DialogHeadding{
+    padding-top: 12%;
+    padding-bottom: 17%;
+    font-size:3.9rem;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+    
+
+.DownloadBtn{
+    font-size: 27px;
+    margin-left: 4%;
+    margin-bottom: 4%;
+    
+    
+
+}
+.PlayStore{
+    font-size:25px ;
+    margin-left: 4%;
+    margin-bottom: 4%;
+}
+
+.Heading{
+    
+    font-size: 40px;
+    
+}
+.Header{
+    
+    padding-left: 0;
+}
+
+
+    
+.nav-link{
+    font-size: 20px;
+    font-style: italic;
+}
+.nav-item{
+    padding: 0 18px;
+    
+    
+}
+.container-fluid2{
+    padding: 7% 3% 7% 3%;
+    
+}
+.feature{
+    
+    padding:5% 0 5%;
+    text-align: center;
+    background-color: white;
+    
+    
+
+}
+h3{
+    text-align: center;
+    font-size:35px;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size:15px ;
+}
+.icon{
+    
+}
+.icon:hover{
+    color: #000;
+}
+#testimonials{
+    text-align: center;
+    padding-bottom: 4rem;
+    font-style: 'Montserrat', sans-serif;
+    background-color:rgb(220, 71, 101);
+    padding:5% 0 5% 0;
+    
+
+}
+h2{
+    font-size: 3rem;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    
+    
+    
+}
+.Dog-image{
+    width: 10%;
+    border-radius: 100%;
+    
+    
+}
+em{
+    color: white;
+    margin-left: 1rem;
+    font-style: italic;
+    
+
+}
+#press{
+    text-align: center;
+    background-color: rgb(220, 71, 101);
+    padding-bottom: 6%;
+}
+.Company{
+    width: 15%;
+    margin: 10px 15px 10px 15px;
+}
+
+.lady{
+    width: 10%;
+    border-radius: 100%;
+}
+.Pricing{
+    color: #000;
+    font-size: 1.3rem;
+   
+    
+}
+.card{
+    width: 80%;
+    text-align: center;
+   
+   
+   
+}
+.Spacing{
+    padding:5% 2% 5% 10% ;
+  
+  
+}
+
+#pricing{
+    padding: auto;
+  
+    
+}
+.Centre1{
+    padding-left: 30px;
+}
+.Centre2{
+    padding-left: 30px;
+    
+}
+
+.Speciality{
+    font-size: 1.5rem;
+    padding: 5px 9px;
+    font-family: 'Montserrat', sans-serif;
+}
+.planfordog{
+
+    padding-top: 4%  ;
+    text-align: center;
+    font-size: 3rem;
+}
+.planfordogsmall{
+    text-align: center;
+    font-size: 2rem;
+   
+}
+@media  (max-width: 1200px) {
+
+    #title{
+        text-align: center;
+    }
+    .Dog{
+      position: static;
+      transform: rotate(0);
+      text-align: center;
+    }
+  }
+  
+  #cta{
+    
+    padding: 15% 15% ;
+    background-color:rgb(215, 45, 79);
+    text-align: center;
+    
+    color:white;
+    
+    
+}
+.LoverTitle{
+    text-align: center;
+    font-size: 3rem;
+    line-height: 5rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 5%;
+    
+}
+#footer{
+    padding: 50px;
+    text-align: center;
+}
+.Last{
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 15px;
+}
